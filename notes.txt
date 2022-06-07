@@ -1,0 +1,1 @@
+jest --watchAll - run unit tests while developing
